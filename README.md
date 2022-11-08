@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabuddha369
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning Programming 
+- 💞️ I’m looking to collaborate on innovative projects 
 - 📫 How to reach me @prabuddha_2003 insta 
 
 <!---
