@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! I am Prabuddha Chatterjee, and I am your friendly neighborhood tech enthusiast..</h2>
+<h2 align="left">Hi 👋! I am Prabuddha Chatterjee, your friendly neighborhood tech enthusiast..</h2>
 
 ###
 
