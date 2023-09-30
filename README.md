@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Prabuddha Chatterjee, I am from India.</h2>
+<h2 align="left">Hi 👋! I am Prabuddha Chatterjee, and I am your friendly neighborhood tech enthusiast..</h2>
 
 ###
 
