@@ -1,5 +1,4 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Prabuddha Chatterjee</h1>
-<h3 align="left">Your friendly neighborhood problem solver & tech enthusiast</h3>
 
 <p align="left"> <img src="https://www.icegif.com/wp-content/uploads/tony-stark-icegif-6.gif" alt="prabuddha369" /> </p>
 
