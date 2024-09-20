@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabuddha Chatterjee</h1>
 <h3 align="center">Your friendly neighborhood problem solver & tech enthusiast</h3>
 
-<p align="left"> <img src="https://www.icegif.com/wp-content/uploads/tony-stark-icegif-6.gif" alt="prabuddha369" /> </p>
+<p align="center"> <img src="https://www.icegif.com/wp-content/uploads/tony-stark-icegif-6.gif" alt="prabuddha369" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabuddha369" alt="prabuddha369" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabuddha369&title=Commit,Issues,PullRequest,Repositories,MultiLanguage,Followers,Reviews" alt="prabuddha369" /></a> </p>
 
 - 🔭 I’m currently working on [KickStart](https://github.com/Kickstart-in-net)
 
